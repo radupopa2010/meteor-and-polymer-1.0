@@ -1,7 +1,7 @@
 # meteor-and-polymer-1.0
-##how to install meteor and polymer 1.0
+## how to install meteor and polymer 1.0
 
-####I just want to use this very short post to tell other developers how I installed Polymer 1.0 and above with Meteor.
+#### I just want to use this very short post to tell other developers how I installed Polymer 1.0 and above with Meteor.
 
 The reason for this post is because I wanted to install Polymer from: [atmospherejs.com](https://atmospherejs.com/packages/polymer) 
 but I keept getting this error: _"polymer: Unable to find suitable version for polymer"_.
